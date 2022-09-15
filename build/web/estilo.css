@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(blue, white);
+    height: 100%;
+    width: 100%;
+}
+
+.inicial{
+    font-size: 50px;
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+
+h1{
+    font-family: fantasy;
+    color: white;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    border-width: 500px;
+    border-color: black;
+}
+
+form{
+    text-align: center;
+    
+}
+
+.botao {
+    background-color: #008CBA;
+    color: white;
+    font-family: arial;
+    text-shadow: 0.1em 0.1em 0.2em black
+} /* Black */
